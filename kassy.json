@@ -1,0 +1,9 @@
+﻿{
+	"name": "uptime",
+	"version": 1.0,
+	"startup": "uptime.js",
+	"help": [
+		["{{commandPrefix}}uptime", "Shows how long the bot has been alive", "Displays how long the bot has been alive to the nearest second."]
+	],
+	"command": "uptime"
+}
